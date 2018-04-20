@@ -1,0 +1,12 @@
+Cloud_Bank.HomeActivity, Cloud Bank;md526020590cb3bf47c820765d157c425bc.HomeActivity
+Cloud_Bank.HomeActivity, Cloud Bank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md526020590cb3bf47c820765d157c425bc.HomeActivity
+Cloud_Bank.HomeActivity;md526020590cb3bf47c820765d157c425bc.HomeActivity
+cloud_bank.HomeActivity;md526020590cb3bf47c820765d157c425bc.HomeActivity
+Cloud_Bank.MainActivity, Cloud Bank;md526020590cb3bf47c820765d157c425bc.MainActivity
+Cloud_Bank.MainActivity, Cloud Bank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md526020590cb3bf47c820765d157c425bc.MainActivity
+Cloud_Bank.MainActivity;md526020590cb3bf47c820765d157c425bc.MainActivity
+cloud_bank.MainActivity;md526020590cb3bf47c820765d157c425bc.MainActivity
+Cloud_Bank.TransactionAtivity, Cloud Bank;md526020590cb3bf47c820765d157c425bc.TransactionAtivity
+Cloud_Bank.TransactionAtivity, Cloud Bank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md526020590cb3bf47c820765d157c425bc.TransactionAtivity
+Cloud_Bank.TransactionAtivity;md526020590cb3bf47c820765d157c425bc.TransactionAtivity
+cloud_bank.TransactionAtivity;md526020590cb3bf47c820765d157c425bc.TransactionAtivity

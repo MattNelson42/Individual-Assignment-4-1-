@@ -1,0 +1,40 @@
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Cloud Bank.dll
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Cloud Bank.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Cloud_Bank.Cloud_Bank.apk
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Cloud_Bank.Cloud_Bank-Signed.apk
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\Cloud Bank.csprojResolveAssemblyReference.cache
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\Cloud Bank.csproj.CoreCompileInputs.cache
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\Cloud Bank.dll
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\Cloud Bank.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\android\bin\Cloud_Bank.Cloud_Bank.apk
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\res\layout\home.xml
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\res\layout\transactions.xml
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\res\layout\main.xml
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\res\values\strings.xml
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\R.cs.flag
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\uploadflags.txt
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Mono.Android.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\mscorlib.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.Core.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.Xml.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.Net.Http.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.Runtime.Serialization.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Mono.Security.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\Mono.Android.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\mscorlib.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.Core.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.Xml.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\Mono.Security.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\Cloud Bank.dll.mdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Cloud Bank.dll.mdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\android\assets\Cloud Bank.dll.mdb
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\bin\Debug\Cloud Bank.dll
+D:\Individual Assignment 4(1)\Cloud Bank\Cloud Bank\obj\Debug\linksrc\Cloud Bank.dll.mdb
